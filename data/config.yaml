@@ -1,8 +1,0 @@
-#chrome/firefox/edge
-browser: chrome
-
-#True/False
-headless: False
-
-#Implicit wait time in seconds
-wait: 15
